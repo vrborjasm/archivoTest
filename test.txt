@@ -1,2 +1,2 @@
-prueba=hol
-prueba2:hol
+prueba=hola2
+prueba2:hola3
